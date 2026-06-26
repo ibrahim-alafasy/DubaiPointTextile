@@ -1,0 +1,227 @@
+----------
+1. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/MainActivity.java (at line 73)
+	imageview1.setOnClickListener(_v -> {
+	                              ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+2. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/MainActivity.java (at line 83)
+	runOnUiThread(() -> {
+	              ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+----------
+3. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/DashboardActivity.java (at line 135)
+	circleimageview1.setOnClickListener(_v -> {
+	                                    ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+4. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/DashboardActivity.java (at line 140)
+	imageview1.setOnClickListener(_v -> {
+	                              ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+5. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/DashboardActivity.java (at line 257)
+	img_cancel_search.setOnClickListener(_v -> {
+	                                     ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+6. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/DashboardActivity.java (at line 264)
+	img_search.setOnClickListener(_v -> {
+	                              ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+----------
+7. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/AdminDashboardActivity.java (at line 100)
+	add_new_image.setOnClickListener(_v -> {
+	                                 ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+8. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/AdminDashboardActivity.java (at line 106)
+	lin_manage_designs.setOnClickListener(_v -> {
+	                                      ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+9. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/AdminDashboardActivity.java (at line 111)
+	lin_setting.setOnClickListener(_v -> {
+	                               ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+10. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/AdminDashboardActivity.java (at line 116)
+	lin_add_notification.setOnClickListener(_v -> {
+	                                        ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+----------
+11. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/AddNewDesignActivity.java (at line 244)
+	mbtn_upload.setOnClickListener(_v -> {
+	                               ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+12. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/AddNewDesignActivity.java (at line 329)
+	img_image.setOnClickListener(_v -> startActivityForResult(file, REQ_CD_FILE));
+	                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+13. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/AddNewDesignActivity.java (at line 428)
+	runOnUiThread(() -> {
+	              ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+14. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/AddNewDesignActivity.java (at line 495)
+	runOnUiThread(() -> {
+	              ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+----------
+15. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/ImageviewActivity.java (at line 156)
+	imageview2.setOnClickListener(_v -> {
+	                              ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+16. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/ImageviewActivity.java (at line 169)
+	img_whatsapp.setOnClickListener(_v -> {
+	                                ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+17. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/ImageviewActivity.java (at line 252)
+	img_download.setOnClickListener(_v -> {
+	                                ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+18. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/ImageviewActivity.java (at line 262)
+	runOnUiThread(() -> {
+	              ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+19. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/ImageviewActivity.java (at line 298)
+	img_favorite.setOnClickListener(_v -> {
+	                                ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+----------
+20. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/AuthenticationActivity.java (at line 115)
+	lin_login.setOnClickListener(_v -> {
+	                             ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+21. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/AuthenticationActivity.java (at line 140)
+	img_show.setOnClickListener(_v -> {
+	                            ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+22. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/AuthenticationActivity.java (at line 146)
+	img_hide.setOnClickListener(_v -> {
+	                            ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+23. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/AuthenticationActivity.java (at line 152)
+	imageview4.setOnClickListener(_v -> TastyToast.makeText(AuthenticationActivity.this, "coming soon", TastyToast.LENGTH_LONG, TastyToast.SUCCESS));
+	                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+----------
+24. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/SettingsActivity.java (at line 96)
+	mbtn_add.setOnClickListener(_v -> {
+	                            ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+----------
+25. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/NotificationsActivity.java (at line 133)
+	imageview2.setOnClickListener(_v -> {
+	                              ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+26. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/NotificationsActivity.java (at line 247)
+	fauth_updateEmailListener = _param1 -> {
+	                            ^^^^^^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+27. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/NotificationsActivity.java (at line 253)
+	fauth_updatePasswordListener = _param1 -> {
+	                               ^^^^^^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+28. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/NotificationsActivity.java (at line 259)
+	fauth_emailVerificationSentListener = _param1 -> {
+	                                      ^^^^^^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+29. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/NotificationsActivity.java (at line 265)
+	fauth_deleteUserListener = _param1 -> {
+	                           ^^^^^^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+30. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/NotificationsActivity.java (at line 271)
+	fauth_phoneAuthListener = task -> {
+	                          ^^^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+31. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/NotificationsActivity.java (at line 277)
+	fauth_updateProfileListener = _param1 -> {
+	                              ^^^^^^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+32. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/NotificationsActivity.java (at line 283)
+	fauth_googleSignInListener = task -> {
+	                             ^^^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+33. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/NotificationsActivity.java (at line 289)
+	_fauth_create_user_listener = _param1 -> {
+	                              ^^^^^^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+34. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/NotificationsActivity.java (at line 295)
+	_fauth_sign_in_listener = _param1 -> {
+	                          ^^^^^^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+35. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/NotificationsActivity.java (at line 301)
+	_fauth_reset_password_listener = _param1 -> {
+	                                 ^^^^^^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+36. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/NotificationsActivity.java (at line 395)
+	runOnUiThread(() -> {
+	              ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+----------
+37. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/ManageDesignsActivity.java (at line 124)
+	imageview1.setOnClickListener(_v -> {
+	                              ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+38. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/ManageDesignsActivity.java (at line 317)
+	runOnUiThread(() -> {
+	              ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+----------
+39. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/AboutActivity.java (at line 154)
+	lin_contact_admin.setOnClickListener(_v -> {
+	                                     ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+40. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/AboutActivity.java (at line 176)
+	linear5.setOnClickListener(_v -> {
+	                           ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+41. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/AboutActivity.java (at line 182)
+	linear7.setOnClickListener(_v -> {
+	                           ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+42. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/AboutActivity.java (at line 188)
+	linear6.setOnClickListener(_v -> {
+	                           ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+----------
+43. ERROR in /storage/emulated/0/.sketchware/mysc/778/app/src/main/java/app/dubaipoint/BookmarkActivity.java (at line 217)
+	runOnUiThread(() -> {
+	              ^^^^^
+Lambda expressions are allowed only at source level 1.8 or above
+----------
+43 problems (43 errors)
